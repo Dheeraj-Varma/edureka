@@ -1,0 +1,7 @@
+class Dj{
+           
+	   public static void main(string[] args){
+	    System.out.println9("This is the first program here");
+}
+}
+
